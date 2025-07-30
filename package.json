@@ -1,0 +1,15 @@
+{
+  "name": "APIS",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "^1.11.0",
+    "@google/generative-ai": "^0.24.1",
+    "openai": "^4.104.0"
+  },
+  "type": "module"
+}
